@@ -33,7 +33,7 @@ Overview of frequently used data structures and algorithms. All code will be in 
 9 - Graphs
 
 ## Showcases
-Showcases are small projects used to demonstrate the utility and functionality of the content. They are all written in Java. All the showcases are interesting so as to peak interest for someone learning DSA!
+Showcases are small projects used to demonstrate the utility and functionality of the content. They are all written in Java and intend to peak interest for someone learning DSA!
 
 List of Showcases:
 
