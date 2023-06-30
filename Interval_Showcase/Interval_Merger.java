@@ -21,6 +21,7 @@ public class Main {
 
         Interval.condenseAndSort(ans);
         // print out the answer.
+        System.out.println(ans.size());
         for (Interval a : ans) {
             System.out.println(a.start + " " + a.end);
         }
