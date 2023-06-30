@@ -1,5 +1,5 @@
 # DataStructuresandAlgorithms
-Overview of frequently used data structures and algorithms. All code will be in Java.
+Overview of frequently used data structures and algorithms. Most code will be in Java.
 
 ## Content
 1 - Review (This is a placeholder - before you attempt learning DSA you should have a solid foundation in basic programming techniques. Qualifications might include a semester or two of undergrad intro to CS courses or a rigorous highschool class in CS)
@@ -33,7 +33,7 @@ Overview of frequently used data structures and algorithms. All code will be in 
 9 - Graphs
 
 ## Showcases
-Showcases are small projects used to demonstrate the utility and functionality of the content. They are all written in Java and intend to peak interest for someone learning DSA!
+Showcases are small projects used to demonstrate the utility and functionality of the content. They are mostly written in Java and intend to peak interest for someone learning DSA!
 
 List of Showcases:
 
