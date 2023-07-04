@@ -35,10 +35,3 @@ Overview of frequently used data structures and algorithms. Most code will be in
 ## Showcases
 Showcases are small projects used to demonstrate the utility and functionality of the content. They are mostly written in Java and intend to peak interest for someone learning DSA!
 
-List of Showcases:
-
-Interval Merger
-
-Terrain Data Visualizer
-
-
